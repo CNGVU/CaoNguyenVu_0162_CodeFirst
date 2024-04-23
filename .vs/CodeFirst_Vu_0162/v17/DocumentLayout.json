@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\access.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\codefirst_vu_0162.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\codefirst_vu_0162.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\codefirst_vu_0162.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\codefirst_vu_0162.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\data_access\\inforcompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\data_access\\inforcompanydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|e:\\workspace\\dh_spkt\\223\\workspace_cs\\codefirst_vu_0162\\codefirst_vu_0162\\data_access\\migrations\\20240423103659_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15117D6-5C64-49C4-8C70-A46CEEFC6652}|CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj|solutionrelative:codefirst_vu_0162\\data_access\\migrations\\20240423103659_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Controllers\\StaffController.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Controllers\\StaffController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA7wB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:47:45.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Views\\Companies\\Index.cshtml",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Views\\Companies\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:38:58.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Controllers\\CompaniesController.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Controllers\\CompaniesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:38:52.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodeFirst_Vu_0162.csproj",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\CodeFirst_Vu_0162.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-23T11:20:20.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Access.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Access.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Access.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Access.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Access.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:10:51.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\WeatherForecast.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\WeatherForecast.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:10:32.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Models\\Staff.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Staff.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Models\\Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:45:29.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Models\\Department.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Department.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:43:22.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Company.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Models\\Company.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Models\\Company.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:39:37.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\Program.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\Program.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:31:41.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CodeFirst_Vu_0162.http",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162.http",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\CodeFirst_Vu_0162.http",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162.http",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\CodeFirst_Vu_0162.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-23T11:20:24.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240423103659_initial.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\data_access\\migrations\\20240423103659_initial.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\data_access\\migrations\\20240423103659_initial.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\data_access\\migrations\\20240423103659_initial.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\data_access\\migrations\\20240423103659_initial.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:37:00.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\appsettings.json",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\appsettings.json",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T10:30:42.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InforCompanyDBContext.cs",
+              "DocumentMoniker": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\data_access\\InforCompanyDBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirst_Vu_0162\\data_access\\InforCompanyDBContext.cs",
+              "ToolTip": "E:\\Workspace\\DH_SPKT\\223\\Workspace_CS\\CodeFirst_Vu_0162\\CodeFirst_Vu_0162\\data_access\\InforCompanyDBContext.cs",
+              "RelativeToolTip": "CodeFirst_Vu_0162\\data_access\\InforCompanyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:30:51.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
